@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing my programming skills and building my portfolio
 - 🌱 I’m currently learning HTML, CSS, React
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me richelle.xavier@gmail.com
+- 📫 How to reach me richelle.xavier@outlook.com
 
 <!---
 rnxavier/rnxavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
