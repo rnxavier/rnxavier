@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Richelle
-- 👀 I’m interested in developing my programming skills and building my portfolio
-- 🌱 I’m currently learning HTML, CSS, React, React Native
-- 💞️ I’m looking to work on front end projects
-- 📫 How to reach me richelle.xavier@outlook.com
+- 👋🏾 Hi, I’m Richelle
+- ✨ I am a front end developer
+- 👀 Check out my [website](https://www.rjdevs.com/)
 
 <!---
 rnxavier/rnxavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
